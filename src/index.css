@@ -3,5 +3,10 @@
 @tailwind utilities;
 
 :root {
-  background: linear-gradient(to right, #0e7490, #7ab6c2);
+	background: linear-gradient(to right, #0e7490, #7ab6c2);
+}
+
+@font-face {
+	font-family: 'Kodchasan'; /* Choose a name for your font */
+	src: url('./font/Kodchasan-Regular.ttf'); /* Update the path and file name */
 }
