@@ -88,7 +88,7 @@ function App() {
 						<h1>Tools</h1>
 					</div>
 					<div className="flex flex-nowrap overflow-hidden mt-5">
-						<div className="flex flex-column gap-6">
+						<div className="flex flex-wrap justify-center gap-6">
 							<img
 								loading="lazy"
 								src="https://cdn.builder.io/api/v1/image/assets/TEMP/616ac2b89b9e754fd86e01be484727f16dd4a4371c05fa773e98f4d36d237842?apiKey=0a8c0fd347f942b0be298d8b3405a882&"
@@ -127,14 +127,14 @@ function App() {
 							/>
 							<img
 								loading="lazy"
-								src="https://cdn.builder.io/api/v1/image/assets/TEMP/d37acf2ef34693d301ed4ec8276dc9b355b8ad76ac367309bb59894126d16bb0?apiKey=0a8c0fd347f942b0be298d8b3405a882&"
-								className="w-24 h-14 md:w-28 h-16 lg:w-32 h-16 xl:w-36 h-20 2xl:w-48 h-32"
+								src="https://cdn.builder.io/api/v1/image/assets/TEMP/3cab1926076248d932e9c50c2ae37031879003805723e066ee3863a94e02d4b7?apiKey=0a8c0fd347f942b0be298d8b3405a882&"
+								className="size-14 md:size-16 lg:size-20 xl:size-24 2xl:size-32"
 								alt="Tailwind"
 							/>
 							<img
 								loading="lazy"
-								src="https://cdn.builder.io/api/v1/image/assets/TEMP/b77a361cdb4ce67a4d431b8b72ded10ac468090dd84b8ca95c95b467a29528a5?apiKey=0a8c0fd347f942b0be298d8b3405a882&"
-								className="w-24 h-14 md:w-28 h-16 lg:w-32 h-16 xl:w-36 h-14 2xl:w-48 h-32"
+								src="https://cdn.builder.io/api/v1/image/assets/TEMP/b3aa97a4b476ac201f2cd324fba59f87974735575670ddcc7290a16aeb67c7b8?apiKey=0a8c0fd347f942b0be298d8b3405a882&"
+								className="size-14 md:size-16 lg:size-20 xl:size-24 2xl:size-32"
 								alt="Ionic"
 							/>
 							<img
