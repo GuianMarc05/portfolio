@@ -2,7 +2,7 @@ import { useRef } from 'react';
 import './App.css';
 import image from './assets/pic.png';
 import pup from './assets/pup.jpg';
-import bg from './assets/background.svg';
+import bg from './assets/background.png';
 
 function App() {
 	// Ref for the section you want to scroll to
