@@ -38,8 +38,8 @@ function App() {
 						</div>
 						<div className="text-sm md:text-lg lg:text-xl xl:text-2xl">
 							<p>
-								A front-end developer, A self-motivated, goal-oriented and
-								aspiring web developer.
+								I&#39;m a front end developer, creating simple and efficient
+								experiences from design to deployment. Let&#39;s work together!
 							</p>
 						</div>
 					</div>
