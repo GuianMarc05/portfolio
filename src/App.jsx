@@ -36,11 +36,12 @@ function App() {
 						<div className="text-lg font-bold md:text-2xl lg:text-4xl xl:text-6xl 2xl:text-8xl">
 							<h1>Hi! I am Guian.</h1>
 						</div>
-						<div className="text-sm md:text-lg lg:text-xl xl:text-2xl">
+						<div className="text-sm mt-4 md:text-lg lg:text-xl xl:text-2xl">
 							<p>
 								I&#39;m a front end developer, creating simple and efficient
-								experiences from design to deployment. Let&#39;s work together!
+								experiences from design to deployment.
 							</p>
+							<p>Let&#39;s work together!</p>
 						</div>
 					</div>
 					<div className="transition ease-in-out delay-150 hover:scale-105">
